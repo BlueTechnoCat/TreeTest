@@ -1,0 +1,15 @@
+{
+    "cost": 0,
+    "hardness": 0,
+    "flammability": 2,
+    "explosiveness": 0.01,
+    "radioactivity": 2,
+    "charge": 0.2,
+    "color": "3FAEED",
+    "research": {
+        "parent": "team-maka",
+        "requirements": [
+            "copper/1"
+        ]
+    }
+}
