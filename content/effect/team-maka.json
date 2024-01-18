@@ -1,0 +1,15 @@
+{
+    "localizedName": "[#3FAEEDFF]Maka",
+    "description": "",
+    "alwaysUnlocked": true,
+    "buildVisibility": "editorOnly",
+    "type": "LightBlock",
+    "health": 100,
+    "size": 2,
+    "requirements": {
+        "root": true,
+        "planet": "serpulo",
+        "name": "[#3FAEEDFF]Maka",
+        "requiresUnlock": false
+    }
+}

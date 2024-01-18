@@ -1,4 +1,6 @@
 {
+    "localizedName": "[#3FAEEDFF]Randonium",
+    "description": "Just a random ore",
     "cost": 0,
     "hardness": 0,
     "flammability": 2,
@@ -8,8 +10,10 @@
     "color": "3FAEED",
     "research": {
         "parent": "team-maka",
+        "planet": "serpulo",
         "requirements": [
             "copper/1"
         ]
     }
+    
 }
