@@ -10,7 +10,7 @@
     "color": "3FAEED",
     "research": {
         "parent": "team-maka",
-        "requirements": [
+        "requirements":  [
             "copper/1"
         ]
     }

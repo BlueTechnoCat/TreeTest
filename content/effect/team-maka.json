@@ -4,11 +4,11 @@
   "alwaysUnlocked": true,
   "buildVisibility": "editorOnly",
   "type": "LightBlock",
-  "health": 100,
+  "health": 800,
   "size": 2,
   "research": {
     "root": true,
-	  "name": "[#3FAEEDFF]Maka",
+		"name": "[#3FAEEDFF]Maka",
     "requiresUnlock": false
   }
 }
