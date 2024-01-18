@@ -10,7 +10,6 @@
     "color": "3FAEED",
     "research": {
         "parent": "team-maka",
-        "planet": "serpulo",
         "requirements": [
             "copper/1"
         ]

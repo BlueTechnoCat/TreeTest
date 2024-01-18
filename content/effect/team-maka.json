@@ -1,14 +1,14 @@
 {
-    "localizedName": "[#3FAEEDFF]Maka",
-    "description": "",
-    "alwaysUnlocked": true,
-    "buildVisibility": "editorOnly",
-    "type": "LightBlock",
-    "health": 100,
-    "size": 2,
-    "research": {
-        "root": true,
-        "name": "[#3FAEEDFF]Maka",
-        "requiresUnlock": false
-    }
+  "localizedName": "[#3FAEEDFF]Maka",
+  "description": "The Randoms of Maka",
+  "alwaysUnlocked": true,
+  "buildVisibility": "editorOnly",
+  "type": "LightBlock",
+  "health": 100,
+  "size": 2,
+  "research": {
+    "root": true,
+	  "name": "[#3FAEEDFF]Maka",
+    "requiresUnlock": false
+  }
 }
