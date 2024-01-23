@@ -10,5 +10,8 @@
     "root": true,
 		"name": "[#3FAEEDFF]Maka",
     "requiresUnlock": false
-  }
+  },
+  "requirements": [
+    "copper/20"
+  ]
 }
